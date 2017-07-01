@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2017-06-11T14:02:45Z"/>
+
+  <bounds minlat="-32.9710400" minlon="-68.7869200" maxlat="-32.9693400" maxlon="-68.7845900"/>
+
+  <node id="1286655416" lat="-32.9685113" lon="-68.7906681" version="2" timestamp="2011-07-22T22:23:57Z" changeset="8802053" uid="392023" user="Fede Borgnia"/>
+  <node id="1286655418" lat="-32.9755040" lon="-68.7880546" version="3" timestamp="2016-04-29T03:01:13Z" changeset="38971424" uid="2506634" user="ober_mza">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="1286655435" lat="-32.9669396" lon="-68.7839767" version="3" timestamp="2016-06-11T23:20:47Z" changeset="39962469" uid="2506634" user="ober_mza"/>
+  <node id="1286655440" lat="-32.9720644" lon="-68.7870617" version="3" timestamp="2016-06-11T23:20:47Z" changeset="39962469" uid="2506634" user="ober_mza"/>
+  <node id="1286655443" lat="-32.9639843" lon="-68.7831331" version="3" timestamp="2017-02-10T15:19:47Z" changeset="45976397" uid="2506634" user="ober_mza"/>
+  <node id="1286655458" lat="-32.9751113" lon="-68.7862804" version="2" timestamp="2011-07-22T22:23:58Z" changeset="8802053" uid="392023" user="Fede Borgnia"/>
+  <node id="1286655462" lat="-32.9607379" lon="-68.7838826" version="3" timestamp="2017-02-10T15:19:47Z" changeset="45976397" uid="2506634" user="ober_mza"/>
+  <node id="1286655478" lat="-32.9706887" lon="-68.7866582" version="3" timestamp="2016-06-11T23:20:48Z" changeset="39962469" uid="2506634" user="ober_mza"/>
+  <node id="1286655481" lat="-32.9610386" lon="-68.7823115" version="3" timestamp="2017-02-10T15:19:47Z" changeset="45976397" uid="2506634" user="ober_mza"/>
+  <node id="1286655520" lat="-32.9660651" lon="-68.7837283" version="3" timestamp="2017-02-10T15:19:47Z" changeset="45976397" uid="2506634" user="ober_mza"/>
+  <node id="1286655570" lat="-32.9736291" lon="-68.7858242" version="3" timestamp="2016-06-11T23:20:47Z" changeset="39962469" uid="2506634" user="ober_mza"/>
+  <node id="1286655576" lat="-32.9605620" lon="-68.7821924" version="3" timestamp="2017-02-10T15:19:47Z" changeset="45976397" uid="2506634" user="ober_mza"/>
+  <node id="1286655610" lat="-32.9692077" lon="-68.7847481" version="3" timestamp="2016-06-11T23:20:47Z" changeset="39962469" uid="2506634" user="ober_mza"/>
+  <node id="1286655617" lat="-32.9747647" lon="-68.7878468" version="2" timestamp="2011-07-22T22:24:02Z" changeset="8802053" uid="392023" user="Fede Borgnia"/>
+  <node id="1286655626" lat="-32.9657664" lon="-68.7852860" version="3" timestamp="2017-02-10T15:19:46Z" changeset="45976397" uid="2506634" user="ober_mza"/>
+  <node id="1286655639" lat="-32.9684524" lon="-68.7845599" version="3" timestamp="2016-06-11T23:20:47Z" changeset="39962469" uid="2506634" user="ober_mza"/>
+  <node id="1286655643" lat="-32.9733883" lon="-68.7857109" version="3" timestamp="2016-06-11T23:20:47Z" changeset="39962469" uid="2506634" user="ober_mza"/>
+  <node id="1286655700" lat="-32.9705193" lon="-68.7873250" version="4" timestamp="2017-02-10T15:19:46Z" changeset="45976397" uid="2506634" user="ober_mza"/>
+  <node id="1286655734" lat="-32.9694148" lon="-68.7862879" version="4" timestamp="2017-02-10T15:19:46Z" changeset="45976397" uid="2506634" user="ober_mza"/>
+  <node id="1286655769" lat="-32.9629360" lon="-68.7828291" version="3" timestamp="2017-02-10T15:19:47Z" changeset="45976397" uid="2506634" user="ober_mza"/>
+  <node id="1286655783" lat="-32.9702484" lon="-68.7886110" version="4" timestamp="2017-02-10T15:19:46Z" changeset="45976397" uid="2506634" user="ober_mza"/>
+  <node id="1286655811" lat="-32.9718951" lon="-68.7870000" version="3" timestamp="2016-06-11T23:20:47Z" changeset="39962469" uid="2506634" user="ober_mza"/>
+  <node id="1286655813" lat="-32.9671396" lon="-68.7841963" version="3" timestamp="2016-06-11T23:20:47Z" changeset="39962469" uid="2506634" user="ober_mza">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="1286655847" lat="-32.9709848" lon="-68.7851924" version="3" timestamp="2016-06-11T23:20:48Z" changeset="39962469" uid="2506634" user="ober_mza"/>
+  <node id="1286655860" lat="-32.9669356" lon="-68.7856001" version="4" timestamp="2017-02-10T15:19:46Z" changeset="45976397" uid="2506634" user="ober_mza">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="1286655866" lat="-32.9646781" lon="-68.7849612" version="3" timestamp="2017-02-10T15:19:46Z" changeset="45976397" uid="2506634" user="ober_mza"/>
+  <node id="1286655891" lat="-32.9619410" lon="-68.7825575" version="3" timestamp="2017-02-10T15:19:47Z" changeset="45976397" uid="2506634" user="ober_mza"/>
+  <node id="1286655895" lat="-32.9758603" lon="-68.7864905" version="3" timestamp="2016-04-29T03:01:13Z" changeset="38971424" uid="2506634" user="ober_mza">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="1286655897" lat="-32.9623412" lon="-68.7843515" version="4" timestamp="2017-02-10T15:19:47Z" changeset="45976397" uid="2506634" user="ober_mza"/>
+  <node id="1286655898" lat="-32.9691797" lon="-68.7875301" version="4" timestamp="2017-02-10T15:19:46Z" changeset="45976397" uid="2506634" user="ober_mza"/>
+  <node id="1286655910" lat="-32.9703949" lon="-68.7878380" version="4" timestamp="2017-02-10T15:19:46Z" changeset="45976397" uid="2506634" user="ober_mza"/>
+  <node id="1286655960" lat="-32.9721812" lon="-68.7854766" version="4" timestamp="2016-06-11T23:20:48Z" changeset="39962469" uid="2506634" user="ober_mza"/>
+  <node id="1286655962" lat="-32.9616820" lon="-68.7841505" version="3" timestamp="2017-02-10T15:19:47Z" changeset="45976397" uid="2506634" user="ober_mza"/>
+  <node id="1286655972" lat="-32.9634548" lon="-68.7845998" version="3" timestamp="2017-02-10T15:19:47Z" changeset="45976397" uid="2506634" user="ober_mza"/>
+  <node id="1286655980" lat="-32.9649773" lon="-68.7834052" version="3" timestamp="2017-02-10T15:19:47Z" changeset="45976397" uid="2506634" user="ober_mza"/>
+  <node id="1286655996" lat="-32.9697004" lon="-68.7848737" version="3" timestamp="2016-06-11T23:20:47Z" changeset="39962469" uid="2506634" user="ober_mza"/>
+  <node id="1286656008" lat="-32.9599763" lon="-68.7836531" version="3" timestamp="2017-02-10T15:19:47Z" changeset="45976397" uid="2506634" user="ober_mza"/>
+  <node id="1286656023" lat="-32.9681807" lon="-68.7859490" version="4" timestamp="2017-02-10T15:19:46Z" changeset="45976397" uid="2506634" user="ober_mza"/>
+  <node id="1286656030" lat="-32.9690266" lon="-68.7883050" version="4" timestamp="2017-02-10T15:19:46Z" changeset="45976397" uid="2506634" user="ober_mza"/>
+  <node id="1992171147" lat="-32.9695632" lon="-68.7855793" version="1" timestamp="2012-11-01T12:11:23Z" changeset="13710019" uid="657892" user="Sefer"/>
+  <node id="1992171151" lat="-32.9708441" lon="-68.7859028" version="1" timestamp="2012-11-01T12:11:23Z" changeset="13710019" uid="657892" user="Sefer"/>
+  <node id="2239182917" lat="-32.9620177" lon="-68.7842478" version="2" timestamp="2017-02-10T15:19:47Z" changeset="45976397" uid="2506634" user="ober_mza"/>
+  <node id="2239182923" lat="-32.9623243" lon="-68.7826704" version="2" timestamp="2017-02-10T15:19:47Z" changeset="45976397" uid="2506634" user="ober_mza"/>
+  <node id="2239182929" lat="-32.9626586" lon="-68.7844330" version="2" timestamp="2017-02-10T15:19:47Z" changeset="45976397" uid="2506634" user="ober_mza"/>
+  <node id="2239182939" lat="-32.9628326" lon="-68.7828087" version="2" timestamp="2017-02-10T15:19:47Z" changeset="45976397" uid="2506634" user="ober_mza"/>
+  <node id="2239182968" lat="-32.9639181" lon="-68.7847373" version="2" timestamp="2017-02-10T15:19:47Z" changeset="45976397" uid="2506634" user="ober_mza"/>
+  <node id="2239182975" lat="-32.9641993" lon="-68.7831807" version="2" timestamp="2017-02-10T15:19:47Z" changeset="45976397" uid="2506634" user="ober_mza"/>
+  <node id="4238675020" lat="-32.9682225" lon="-68.7859987" version="2" timestamp="2017-02-10T15:19:46Z" changeset="45976397" uid="2506634" user="ober_mza">
+    <tag k="addr:city" v="Maipú"/>
+    <tag k="addr:housenumber" v="1399"/>
+    <tag k="addr:postcode" v="5515"/>
+    <tag k="addr:street" v="Ozamis"/>
+  </node>
+  <node id="4238675021" lat="-32.9693505" lon="-68.7863188" version="2" timestamp="2017-02-10T15:19:46Z" changeset="45976397" uid="2506634" user="ober_mza">
+    <tag k="addr:city" v="Maipú"/>
+    <tag k="addr:housenumber" v="1301"/>
+    <tag k="addr:postcode" v="5515"/>
+    <tag k="addr:street" v="Ozamis"/>
+  </node>
+  <node id="4238675022" lat="-32.9694526" lon="-68.7863412" version="2" timestamp="2017-02-10T15:19:46Z" changeset="45976397" uid="2506634" user="ober_mza">
+    <tag k="addr:city" v="Maipú"/>
+    <tag k="addr:housenumber" v="1299"/>
+    <tag k="addr:postcode" v="5515"/>
+    <tag k="addr:street" v="Ozamis"/>
+  </node>
+  <node id="4238675023" lat="-32.9706323" lon="-68.7866772" version="2" timestamp="2017-02-10T15:19:46Z" changeset="45976397" uid="2506634" user="ober_mza">
+    <tag k="addr:city" v="Maipú"/>
+    <tag k="addr:housenumber" v="1201"/>
+    <tag k="addr:postcode" v="5515"/>
+    <tag k="addr:street" v="Ozamis"/>
+  </node>
+  <node id="4238675024" lat="-32.9707264" lon="-68.7867047" version="2" timestamp="2017-02-10T15:19:46Z" changeset="45976397" uid="2506634" user="ober_mza">
+    <tag k="addr:city" v="Maipú"/>
+    <tag k="addr:housenumber" v="1199"/>
+    <tag k="addr:postcode" v="5515"/>
+    <tag k="addr:street" v="Ozamis"/>
+  </node>
+  <node id="4238675025" lat="-32.9719797" lon="-68.7870653" version="2" timestamp="2017-02-10T15:19:45Z" changeset="45976397" uid="2506634" user="ober_mza">
+    <tag k="addr:city" v="Maipú"/>
+    <tag k="addr:housenumber" v="1101"/>
+    <tag k="addr:postcode" v="5515"/>
+    <tag k="addr:street" v="Ozamis"/>
+  </node>
+  <node id="4678581302" lat="-32.9750990" lon="-68.7879408" version="1" timestamp="2017-02-10T14:53:30Z" changeset="45975818" uid="2506634" user="ober_mza"/>
+  <node id="4678623947" lat="-32.9732927" lon="-68.7874330" version="1" timestamp="2017-02-10T15:19:44Z" changeset="45976397" uid="2506634" user="ober_mza">
+    <tag k="addr:city" v="Maipú"/>
+    <tag k="addr:housenumber" v="999"/>
+    <tag k="addr:postcode" v="5515"/>
+    <tag k="addr:street" v="Ozamis"/>
+  </node>
+  <way id="34110559" version="11" timestamp="2017-02-10T15:19:48Z" changeset="45976397" uid="2506634" user="ober_mza">
+    <nd ref="1286656008"/>
+    <nd ref="1286655462"/>
+    <nd ref="1286655962"/>
+    <nd ref="2239182917"/>
+    <nd ref="1286655897"/>
+    <nd ref="2239182929"/>
+    <nd ref="1286655972"/>
+    <nd ref="2239182968"/>
+    <nd ref="1286655866"/>
+    <nd ref="1286655626"/>
+    <nd ref="1286655860"/>
+    <nd ref="1286656023"/>
+    <nd ref="1286655734"/>
+    <nd ref="1286655478"/>
+    <nd ref="1286655811"/>
+    <nd ref="1286655440"/>
+    <nd ref="4678623947"/>
+    <nd ref="1286655617"/>
+    <nd ref="4678581302"/>
+    <nd ref="1286655418"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Ozamis"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="93671613" version="10" timestamp="2015-10-08T04:50:09Z" changeset="34503311" uid="2821076" user="LucianoSosa">
+    <nd ref="1286655895"/>
+    <nd ref="1286655458"/>
+    <nd ref="1286655570"/>
+    <nd ref="1286655643"/>
+    <nd ref="1286655960"/>
+    <nd ref="1286655847"/>
+    <nd ref="1286655996"/>
+    <nd ref="1286655610"/>
+    <nd ref="1286655639"/>
+    <nd ref="1286655813"/>
+    <nd ref="1286655435"/>
+    <nd ref="1286655520"/>
+    <nd ref="1286655980"/>
+    <nd ref="2239182975"/>
+    <nd ref="1286655443"/>
+    <nd ref="1286655769"/>
+    <nd ref="2239182939"/>
+    <nd ref="2239182923"/>
+    <nd ref="1286655891"/>
+    <nd ref="1286655481"/>
+    <nd ref="1286655576"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Padre Vázquez"/>
+    <tag k="oneway" v="yes"/>
+  </way>
+  <way id="113493617" version="2" timestamp="2012-11-01T12:11:34Z" changeset="13710019" uid="657892" user="Sefer">
+    <nd ref="1286655996"/>
+    <nd ref="1992171147"/>
+    <nd ref="1286655734"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Juan José Paso"/>
+  </way>
+  <way id="113493623" version="2" timestamp="2016-10-03T00:12:14Z" changeset="42593772" uid="2506634" user="ober_mza">
+    <nd ref="1286655478"/>
+    <nd ref="1286655700"/>
+    <nd ref="1286655910"/>
+    <nd ref="1286655783"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Carlos Paz"/>
+  </way>
+  <way id="113493640" version="1" timestamp="2011-05-15T17:07:13Z" changeset="8154272" uid="392023" user="Fede Borgnia">
+    <nd ref="1286655734"/>
+    <nd ref="1286655898"/>
+    <nd ref="1286656030"/>
+    <nd ref="1286655416"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Mistral"/>
+  </way>
+  <way id="113493641" version="2" timestamp="2012-11-01T12:11:34Z" changeset="13710019" uid="657892" user="Sefer">
+    <nd ref="1286655847"/>
+    <nd ref="1992171151"/>
+    <nd ref="1286655478"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Laprida"/>
+  </way>
+  <way id="188593776" version="1" timestamp="2012-11-01T12:11:27Z" changeset="13710019" uid="657892" user="Sefer">
+    <nd ref="1992171151"/>
+    <nd ref="1992171147"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="424462104" version="1" timestamp="2016-06-12T02:16:00Z" changeset="39963661" uid="2506634" user="ober_mza">
+    <nd ref="4238675020"/>
+    <nd ref="4238675021"/>
+    <tag k="addr:interpolation" v="even"/>
+  </way>
+  <way id="424462105" version="1" timestamp="2016-06-12T02:16:00Z" changeset="39963661" uid="2506634" user="ober_mza">
+    <nd ref="4238675022"/>
+    <nd ref="4238675023"/>
+    <tag k="addr:interpolation" v="even"/>
+  </way>
+  <way id="424462106" version="1" timestamp="2016-06-12T02:16:00Z" changeset="39963661" uid="2506634" user="ober_mza">
+    <nd ref="4238675024"/>
+    <nd ref="4238675025"/>
+    <tag k="addr:interpolation" v="even"/>
+  </way>
+  <relation id="3732618" version="16" timestamp="2015-11-04T11:54:11Z" changeset="35077018" uid="755114" user="muralito">
+    <member type="way" ref="93671621" role=""/>
+    <member type="way" ref="255091382" role=""/>
+    <member type="way" ref="261316432" role=""/>
+    <member type="way" ref="255091383" role=""/>
+    <member type="way" ref="280940229" role=""/>
+    <member type="way" ref="317818848" role=""/>
+    <member type="way" ref="317818850" role=""/>
+    <member type="way" ref="280940840" role=""/>
+    <member type="way" ref="261316165" role=""/>
+    <member type="way" ref="93671613" role=""/>
+    <member type="way" ref="88504801" role=""/>
+    <member type="way" ref="113493618" role=""/>
+    <member type="way" ref="280940839" role=""/>
+    <member type="way" ref="360217456" role=""/>
+    <member type="way" ref="255092713" role=""/>
+    <member type="way" ref="280940962" role=""/>
+    <member type="way" ref="223228462" role=""/>
+    <member type="way" ref="223228463" role=""/>
+    <member type="way" ref="366522532" role=""/>
+    <member type="way" ref="366522530" role=""/>
+    <member type="way" ref="280940838" role=""/>
+    <member type="way" ref="280940964" role=""/>
+    <member type="way" ref="177710749" role=""/>
+    <member type="way" ref="104905361" role=""/>
+    <member type="way" ref="311346826" role=""/>
+    <member type="way" ref="223497545" role=""/>
+    <member type="way" ref="353898372" role=""/>
+    <member type="way" ref="223497564" role=""/>
+    <member type="way" ref="176060698" role=""/>
+    <member type="way" ref="364180271" role=""/>
+    <member type="way" ref="250063812" role=""/>
+    <member type="way" ref="94595834" role=""/>
+    <member type="way" ref="94595838" role=""/>
+    <member type="way" ref="94595808" role=""/>
+    <member type="way" ref="255092714" role=""/>
+    <member type="way" ref="105700369" role=""/>
+    <member type="way" ref="105700352" role=""/>
+    <member type="way" ref="98183121" role=""/>
+    <member type="way" ref="98183132" role=""/>
+    <member type="way" ref="94787089" role=""/>
+    <member type="way" ref="164658711" role=""/>
+    <member type="way" ref="369523183" role=""/>
+    <member type="way" ref="94790019" role=""/>
+    <member type="way" ref="369523182" role=""/>
+    <member type="way" ref="164658902" role=""/>
+    <member type="way" ref="255092715" role=""/>
+    <member type="way" ref="255092707" role=""/>
+    <member type="way" ref="161266674" role=""/>
+    <member type="way" ref="93896437" role=""/>
+    <member type="way" ref="255092721" role=""/>
+    <member type="way" ref="280940971" role=""/>
+    <member type="way" ref="261316434" role=""/>
+    <tag k="name" v="Línea 161A: Expreso Maipú → x Sarratea → Mendoza"/>
+    <tag k="operator" v="El Cacique S.A."/>
+    <tag k="ref" v="161A ida"/>
+    <tag k="route" v="bus"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="3732622" version="15" timestamp="2015-11-04T11:54:12Z" changeset="35077018" uid="755114" user="muralito">
+    <member type="way" ref="93671621" role=""/>
+    <member type="way" ref="255091382" role=""/>
+    <member type="way" ref="261316432" role=""/>
+    <member type="way" ref="255091383" role=""/>
+    <member type="way" ref="280940229" role=""/>
+    <member type="way" ref="317818848" role=""/>
+    <member type="way" ref="317818850" role=""/>
+    <member type="way" ref="280940840" role=""/>
+    <member type="way" ref="261316165" role=""/>
+    <member type="way" ref="93671613" role=""/>
+    <member type="way" ref="88504801" role=""/>
+    <member type="way" ref="113493618" role=""/>
+    <member type="way" ref="280940839" role=""/>
+    <member type="way" ref="360217456" role=""/>
+    <member type="way" ref="177710749" role=""/>
+    <member type="way" ref="104905361" role=""/>
+    <member type="way" ref="311346826" role=""/>
+    <member type="way" ref="105696826" role=""/>
+    <member type="way" ref="105696820" role=""/>
+    <member type="way" ref="261316918" role=""/>
+    <member type="way" ref="280940964" role=""/>
+    <member type="way" ref="280940838" role=""/>
+    <member type="way" ref="261316917" role=""/>
+    <member type="way" ref="261316935" role=""/>
+    <member type="way" ref="106665246" role=""/>
+    <member type="way" ref="105694805" role=""/>
+    <member type="way" ref="261317194" role=""/>
+    <member type="way" ref="261317193" role=""/>
+    <member type="way" ref="106665241" role=""/>
+    <member type="way" ref="113587115" role=""/>
+    <member type="way" ref="223497545" role=""/>
+    <member type="way" ref="353898372" role=""/>
+    <member type="way" ref="223497564" role=""/>
+    <member type="way" ref="176060698" role=""/>
+    <member type="way" ref="364180271" role=""/>
+    <member type="way" ref="250063812" role=""/>
+    <member type="way" ref="94595834" role=""/>
+    <member type="way" ref="94595838" role=""/>
+    <member type="way" ref="94595808" role=""/>
+    <member type="way" ref="255092714" role=""/>
+    <member type="way" ref="105700369" role=""/>
+    <member type="way" ref="105700352" role=""/>
+    <member type="way" ref="98183121" role=""/>
+    <member type="way" ref="98183132" role=""/>
+    <member type="way" ref="94787089" role=""/>
+    <member type="way" ref="164658711" role=""/>
+    <member type="way" ref="369523183" role=""/>
+    <member type="way" ref="94790019" role=""/>
+    <member type="way" ref="369523182" role=""/>
+    <member type="way" ref="164658902" role=""/>
+    <member type="way" ref="255092715" role=""/>
+    <member type="way" ref="255092707" role=""/>
+    <member type="way" ref="161266674" role=""/>
+    <member type="way" ref="93896437" role=""/>
+    <member type="way" ref="255092721" role=""/>
+    <member type="way" ref="280940971" role=""/>
+    <member type="way" ref="261316434" role=""/>
+    <tag k="name" v="Línea 161B: Expreso Maipú → x Urquiza → Mendoza"/>
+    <tag k="operator" v="El Cacique S.A."/>
+    <tag k="ref" v="161B ida"/>
+    <tag k="route" v="bus"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="3732632" version="9" timestamp="2015-11-04T11:54:12Z" changeset="35077018" uid="755114" user="muralito">
+    <member type="way" ref="255092709" role=""/>
+    <member type="way" ref="252934431" role=""/>
+    <member type="way" ref="93896435" role=""/>
+    <member type="way" ref="93896433" role=""/>
+    <member type="way" ref="161266677" role=""/>
+    <member type="way" ref="161266673" role=""/>
+    <member type="way" ref="369523184" role=""/>
+    <member type="way" ref="161266676" role=""/>
+    <member type="way" ref="128295551" role=""/>
+    <member type="way" ref="98183155" role=""/>
+    <member type="way" ref="105700349" role=""/>
+    <member type="way" ref="280940965" role=""/>
+    <member type="way" ref="105700343" role=""/>
+    <member type="way" ref="105700361" role=""/>
+    <member type="way" ref="34110554" role=""/>
+    <member type="way" ref="94595845" role=""/>
+    <member type="way" ref="176060703" role=""/>
+    <member type="way" ref="176060706" role=""/>
+    <member type="way" ref="250063814" role=""/>
+    <member type="way" ref="95529494" role=""/>
+    <member type="way" ref="249826020" role=""/>
+    <member type="way" ref="311346824" role=""/>
+    <member type="way" ref="249823818" role=""/>
+    <member type="way" ref="280940964" role=""/>
+    <member type="way" ref="113587115" role=""/>
+    <member type="way" ref="360217456" role=""/>
+    <member type="way" ref="261317197" role=""/>
+    <member type="way" ref="106665235" role=""/>
+    <member type="way" ref="106665246" role=""/>
+    <member type="way" ref="105694805" role=""/>
+    <member type="way" ref="261316935" role=""/>
+    <member type="way" ref="261316917" role=""/>
+    <member type="way" ref="261316918" role=""/>
+    <member type="way" ref="105696806" role=""/>
+    <member type="way" ref="280940963" role=""/>
+    <member type="way" ref="280940839" role=""/>
+    <member type="way" ref="113493618" role=""/>
+    <member type="way" ref="34110559" role=""/>
+    <member type="way" ref="261316424" role=""/>
+    <member type="way" ref="280940971" role=""/>
+    <member type="way" ref="261316434" role=""/>
+    <member type="way" ref="93671621" role=""/>
+    <member type="way" ref="255091382" role=""/>
+    <member type="way" ref="246731694" role=""/>
+    <tag k="name" v="Línea 161B: Expreso Mendoza → x Urquiza → Maipú"/>
+    <tag k="operator" v="El Cacique S.A."/>
+    <tag k="ref" v="161B vuelta"/>
+    <tag k="route" v="bus"/>
+    <tag k="type" v="route"/>
+  </relation>
+  <relation id="3732633" version="9" timestamp="2015-11-04T11:54:11Z" changeset="35077018" uid="755114" user="muralito">
+    <member type="way" ref="255092709" role=""/>
+    <member type="way" ref="252934431" role=""/>
+    <member type="way" ref="93896435" role=""/>
+    <member type="way" ref="93896433" role=""/>
+    <member type="way" ref="161266677" role=""/>
+    <member type="way" ref="161266673" role=""/>
+    <member type="way" ref="369523184" role=""/>
+    <member type="way" ref="161266676" role=""/>
+    <member type="way" ref="128295551" role=""/>
+    <member type="way" ref="98183155" role=""/>
+    <member type="way" ref="105700349" role=""/>
+    <member type="way" ref="280940965" role=""/>
+    <member type="way" ref="105700343" role=""/>
+    <member type="way" ref="105700361" role=""/>
+    <member type="way" ref="34110554" role=""/>
+    <member type="way" ref="94595845" role=""/>
+    <member type="way" ref="176060703" role=""/>
+    <member type="way" ref="176060706" role=""/>
+    <member type="way" ref="250063814" role=""/>
+    <member type="way" ref="95529494" role=""/>
+    <member type="way" ref="249826020" role=""/>
+    <member type="way" ref="311346824" role=""/>
+    <member type="way" ref="249823818" role=""/>
+    <member type="way" ref="280940964" role=""/>
+    <member type="way" ref="280940838" role=""/>
+    <member type="way" ref="366522530" role=""/>
+    <member type="way" ref="366522532" role=""/>
+    <member type="way" ref="223228463" role=""/>
+    <member type="way" ref="105697310" role=""/>
+    <member type="way" ref="255092713" role=""/>
+    <member type="way" ref="360217456" role=""/>
+    <member type="way" ref="280940839" role=""/>
+    <member type="way" ref="113493618" role=""/>
+    <member type="way" ref="34110559" role=""/>
+    <member type="way" ref="261316424" role=""/>
+    <member type="way" ref="280940971" role=""/>
+    <member type="way" ref="261316434" role=""/>
+    <member type="way" ref="93671621" role=""/>
+    <member type="way" ref="255091382" role=""/>
+    <tag k="name" v="Línea 161A: Expreso Mendoza → x Sarratea → Maipú"/>
+    <tag k="operator" v="El Cacique S.A."/>
+    <tag k="ref" v="161A vuelta"/>
+    <tag k="route" v="bus"/>
+    <tag k="type" v="route"/>
+  </relation>
+
+</osm>
