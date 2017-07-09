@@ -21,10 +21,16 @@ query_ways = 'way ["highway"] (-32.9897, -68.9124, -32.7959, -68.7085);out body;
 # query_ways = 'way ["highway"] (-32.9055000, -68.8613000, -32.8802000, -68.8105000);out body;'
 ways = overPass.query(query_ways, timeout=100, settings={'maxsize': 2000000000})
 array_nodos = []
-archivo.write('ID NODO | ID WAY \n')
+archivo.write('ID NODO | ID WAY | Nombre \n')
 for index, way in enumerate(ways.toJSON()['elements']):
     for node in way['nodes']:
-        archivo.write(str(node) + ' | ' + str(way['id']) + '\n')
+        archivo.write(str(node) + ' | ' + str(way['id']))
+        if 'name' in way['tags']:
+            archivo.write(' | ' + str(way['tags']['name']))
+        else:
+            archivo.write(' | Sin Nombre')
+        archivo.write('\n')
+
         # array_nodos.append({'node': node, 'way': way['id']})
 archivo.close()
 # items = 0
